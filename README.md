@@ -19,6 +19,12 @@
 </div>
 
 <div align="center">
+  <h4>Sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica</h4>
+  
+  ![](https://geps.dev/progress/10)
+</div>
+
+<div align="center">
   <h3>Me encontre aqui:</h3>
 
   <a href="https://www.linkedin.com/in/mariaisabelcoms/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
