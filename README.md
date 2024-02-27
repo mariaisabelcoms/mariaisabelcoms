@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h4>Sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica</h4>
+  <h4>Sou estudante de Ciência de Dados pela Faculdade Descomplica</h4>
   
   ![](https://geps.dev/progress/25)
 </div>
