@@ -3,7 +3,7 @@
 <div align="center">
   <h3>Linguagens que estou aprendendo no momento:</h3>
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
 
